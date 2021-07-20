@@ -3,8 +3,8 @@
     padding: 0;
 }
 .content{
-    width: 640px;
-    height: 640px;
+    width: 540px;
+    height: 540px;
     margin: 100px auto;
     /* 相对定位 */
     position: relative;
